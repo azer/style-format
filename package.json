@@ -1,0 +1,24 @@
+{
+  "name": "style-format",
+  "version": "0.0.0",
+  "description": "Library to easily style texts with string formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ansi-codes": "*",
+    "format-text": "*"
+  },
+  "keywords": [
+    "style",
+    "text",
+    "format"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/style-format.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
