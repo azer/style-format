@@ -7,8 +7,8 @@
     "test": "mocha"
   },
   "dependencies": {
-    "ansi-codes": "*",
-    "format-text": "*"
+    "ansi-codes": "azer/ansi-codes",
+    "format-text": "azer/format-text"
   },
   "keywords": [
     "style",
